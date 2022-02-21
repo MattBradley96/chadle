@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//mattbradley96.github.io/chadle/static/css/main.44b84c98.css",
+    "main.js": "//mattbradley96.github.io/chadle/static/js/main.0effa9b7.js",
+    "static/js/787.e562568f.chunk.js": "//mattbradley96.github.io/chadle/static/js/787.e562568f.chunk.js",
+    "service-worker.js": "//mattbradley96.github.io/chadle/service-worker.js",
+    "index.html": "//mattbradley96.github.io/chadle/index.html",
+    "main.44b84c98.css.map": "//mattbradley96.github.io/chadle/static/css/main.44b84c98.css.map",
+    "main.0effa9b7.js.map": "//mattbradley96.github.io/chadle/static/js/main.0effa9b7.js.map",
+    "787.e562568f.chunk.js.map": "//mattbradley96.github.io/chadle/static/js/787.e562568f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b84c98.css",
+    "static/js/main.0effa9b7.js"
+  ]
+}
